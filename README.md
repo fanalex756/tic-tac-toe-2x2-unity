@@ -1,2 +1,2 @@
-# tic-tac-toe-2x2-unity
- 
+# tic-tac-toe-3x3-unity
+worked with Tammy Nguyen
